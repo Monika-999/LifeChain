@@ -53,8 +53,6 @@ LifeChain addresses critical issues in organ donation such as fraud, illegal tra
 
 ### Steps
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/LifeChain.git
 
 # Navigate to project folder
 cd LifeChain
@@ -67,3 +65,6 @@ truffle compile
 
 # Deploy contracts
 truffle migrate --network development
+
+# Start the development server
+npm run dev
