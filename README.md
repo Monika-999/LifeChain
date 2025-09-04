@@ -16,8 +16,8 @@ LifeChain is a blockchain-based platform designed to bring **security, transpare
 ## 🛠️ Tech Stack
 - **Blockchain & Smart Contracts**: Ethereum, Solidity, Ganache, Truffle/Hardhat
 - **Frontend**: HTML, CSS, JavaScript (with Web3.js)
-- **Backend (optional)**: Node.js, Express.js
-- **Database (optional/off-chain storage)**: MongoDB
+- **Backend**: Node.js, Express.js
+- **Database (off-chain storage)**: MongoDB
 - **Tools**: MetaMask, VS Code, Git/GitHub
 
 ---
